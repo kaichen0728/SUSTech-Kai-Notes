@@ -1,2 +1,2 @@
-* Textbook: **复分析导论** by *Б. В. Шабат (B. V. Shabat)*
-* Remark: There is only original Russian version and Chinese version for this book.
+* Textbook: **Introduction to Complex Analysis** by *Б. В. Шабат (B. V. Shabat)*
+* Remark: There is only the original Russian version and one Chinese version for this book's Part I. For Part II, there is an English translation.
