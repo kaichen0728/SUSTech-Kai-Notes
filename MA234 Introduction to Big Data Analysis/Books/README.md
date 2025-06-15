@@ -4,4 +4,4 @@
 * *Machine Learning (1st edition)* by Zhihua Zhou, Tsinghua University Press, Peking, 2016
 * *数据科学导引* by 欧高炎, 朱占星, 董彬, 鄂维南, 高等教育出版社, 博雅大数据学院
 
-I think the first one is the best one, combining with the professor's slides.
+I think the first one is the best one, combined with the professor's slides.
