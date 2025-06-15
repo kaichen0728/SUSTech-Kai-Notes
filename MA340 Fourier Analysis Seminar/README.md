@@ -1,4 +1,4 @@
-# Fourier Analysis Seminar
+# MA340 Fourier Analysis Seminar (Spring 2025)
 
 ### with Prof. Pedro A. S. Salomão
 
